@@ -1,27 +1,27 @@
 {
     "name": "CompressorBot",
     "description": "A Normal Telegram Bot Which can Compress/encode/ Generate Samples of videos.",
-    "logo": "https://telegra.ph/file/75ee20ec8d8c8bba84f02.jpg",
+    "logo": "https://yt3.ggpht.com/a/AATXAJwZWHiEGZwol-Ah1YSv_RIPD2YsWr_w1i_WWA=s900-c-k-c0xffffffff-no-rj-mo",
     "keywords": ["Telegram","python", "Video","Compressor","Encoder"],
-    "repository": "https://github.com/1Danish-00/CompressorBot",
-    "success_url": "https://t.me/BotzHub",
+    "repository": "huehue",
+    "success_url": "",
     "stack": "container",
     "env": {
         "APP_ID": {
             "description": "You api id, from my.telegram.org or @apiScrapperRoBot.",
-            "value": ""
+            "value": "9795184"
         },
         "API_HASH": {
             "description": "You api hash, from my.telegram.org or @apiScrapperRoBot.",
-            "value": ""
+            "value": "ba7a6465-2278-41cc-97af-5f74896acb0b"
         },
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather, and enter it's api token here.",
-            "value": ""
+            "value": "5081627257:AAHVhO5CvtPO2IQ7ttsEA4ZYacK78xkm7v8"
         },
         "LOG_CHANNEL": {
             "description": "Create a private group/channel. Add @missrose_bot and your bot + make admin. Do /id. Paste that here",
-             "value": ""
+             "value": "1664499538"
         },
         "OWNER_ID": {
             "description": "Get ur Id Of Telegram nd Paste Here.",
